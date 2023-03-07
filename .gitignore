@@ -1,0 +1,12 @@
+HELP.md
+
+### IntelliJ IDEA ###
+.idea
+*.iml
+
+### NetBeans ###
+/dist/
+/node_modules/
+
+### VS Code ###
+.vscode/
